@@ -5,7 +5,9 @@
     <classes>
       <class name="KGL.KGLProject.TC01">
         <methods>
+          <include name="closeBrowser"/>
           <include name="TC01_Amazon"/>
+          <include name="openBrowser"/>
         </methods>
       </class> <!-- KGL.KGLProject.TC01 -->
     </classes>
